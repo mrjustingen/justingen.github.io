@@ -1,0 +1,38 @@
+html {
+	font-family: "Georgia", "Times New Roman";
+	font-size: 14px;
+}
+
+body {
+	background: black;
+	margin: 16px;
+}
+
+h1 {
+	font-size: 72px;
+  color: white;
+	font-weight: normal;
+	margin: 0px;
+}
+
+h2 {
+	font-size: 32px;
+  color: white;
+	font-weight: normal;
+	font-style: italic;
+	margin: 0px;
+}
+
+p {
+	font-size: 32px;
+  color: white;
+}
+
+a {
+	color: white;
+	font-weight: normal;
+}
+
+.div_main {
+	text-align: center;
+}
